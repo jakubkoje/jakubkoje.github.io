@@ -1,0 +1,305 @@
+a.nav-link:hover {
+  color: #007bff !important;
+}
+.active {
+  font-weight: bold;
+}
+
+.openlab-logo {
+  max-width: 200px;
+}
+
+.home-nav {
+  cursor: pointer;
+}
+
+.btn-outline-primary:hover {
+  background-color: #6c757d;
+}
+
+.first {
+  height: 875px;
+  background: url("http://openlab-web.teo.sk/themes/demo/assets/assets/header.jpg")
+    center no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.text-preco > h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.font-preco {
+  color: #071f58;
+  font-size: 1.2rem;
+}
+
+.card1 {
+  top: 32rem;
+  left: 20%;
+  height: 25rem;
+  width: 30rem;
+  padding: 2rem 1rem;
+}
+
+.card2 {
+  top: 17.2rem;
+  left: 5%;
+  height: 15rem;
+  width: 5rem;
+  background: url("http://openlab-web.teo.sk/themes/demo/assets/assets/social_icons.png")
+    center no-repeat;
+  background-size: contain;
+  background-color: white;
+  z-index: 9;
+  cursor: pointer;
+}
+
+.card2-dark {
+  top: 17.2rem;
+  left: 5%;
+  height: 15rem;
+  width: 5rem;
+  background: url("https://i.imgur.com/9RzwtFB.png") center no-repeat;
+  background-size: contain;
+  background-color: white;
+  z-index: 9;
+  cursor: pointer;
+}
+
+.second {
+  background-color: #071f58;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.badge {
+  border-radius: 0.5rem;
+}
+.p-25 {
+  padding-bottom: 15rem;
+  padding-top: 15rem;
+}
+
+.third {
+  background: url("http://openlab-web.teo.sk/themes/demo/assets/assets/office.jpg")
+    center no-repeat;
+  background-size: cover;
+  height: 1000px;
+  width: 100%;
+}
+.bg-last {
+  background-color: #458de8;
+}
+
+.holding {
+  max-height: 500px;
+}
+
+.ceo {
+  width: 600px;
+  position: relative;
+  left: -45px;
+  top: -64px;
+  z-index: 1;
+  margin-left: 5%;
+}
+.signature {
+  top: 140px;
+  left: 8rem;
+  position: relative;
+}
+
+.white {
+  height: 25rem;
+  min-width: 600px;
+  max-width: 600px;
+  margin-left: 5%;
+  padding: 0;
+}
+@media only screen and (max-width: 1300px) {
+  .white {
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+
+  .blue {
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+}
+.blue {
+  margin-right: 5%;
+  padding: 0;
+  height: 25rem;
+  min-width: 600px;
+  max-width: 600px;
+}
+
+.card-last {
+  position: relative;
+  top: 100px;
+}
+
+.text-last {
+  margin-right: 30%;
+  height: 25rem;
+  min-width: 600px;
+  max-width: 600px;
+  padding: 5rem;
+  padding-right: 3rem;
+  padding-bottom: 3rem;
+}
+
+.ceo-heading {
+  margin-bottom: 2rem;
+}
+
+.ceo-heading-small {
+  margin-bottom: 1rem;
+}
+
+.text-last > .card-body > h6 {
+  padding: 0 5rem;
+  padding-top: 3rem;
+}
+.text-last > .card-body > h2 {
+  padding: 0 5rem;
+}
+
+.text-last > .card-body > p {
+  padding: 0 5rem;
+  padding-top: 2rem;
+}
+
+.newsletter {
+  background-color: #071f58;
+  padding-top: 75px;
+}
+.text-bold {
+  font-weight: 700;
+}
+.text-bold-max {
+  font-weight: 800;
+  font-size: 3rem;
+}
+
+.text-bold-800 {
+  font-weight: 800;
+}
+
+.p-8 {
+  padding: 8rem;
+}
+
+.wezeo,
+.charged-monkey,
+.asit,
+.spse-halova,
+.powerplay-studio,
+.t-systems {
+  width: 100%;
+}
+
+.piliere {
+  background-color: #f4f9fe;
+}
+
+.calendar,
+.trophy,
+.creditcard,
+.smile,
+.squares,
+.lock {
+  width: 4.5rem;
+}
+
+.slider {
+  color: gray;
+}
+
+.card-img-top {
+  border-radius: 1rem 1rem 0 0;
+}
+
+.email {
+  color: white;
+  background-color: #071f58;
+  text-decoration: none;
+  border: none;
+  text-align: center;
+  border-bottom: 1px #546790 solid;
+  width: 50%;
+  height: 3rem;
+}
+.email:focus {
+  outline: none;
+}
+
+.labs {
+  background: url("http://openlab.sk/assets/images/sg-cards-background.jpg")
+    center no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 935px;
+}
+
+.bg-hybrid {
+  background-color: #298cf0;
+}
+
+.bg-games {
+  background-color: #643695;
+}
+
+.bg-apps {
+  background-color: #fac832;
+}
+
+.text-team {
+  color: #94c5f7;
+}
+.text-team-apps {
+  color: #fdf3d3;
+}
+
+.text-teams {
+  color: #afd4f9;
+}
+
+.tab {
+  border-bottom: grey solid 1px;
+}
+
+.tab-active {
+  border-bottom: limegreen solid 4px;
+  font-weight: bold;
+}
+
+.footer {
+  width: 80%;
+  border-top: 1px solid black;
+}
+.wezeo-footer {
+  width: 100px;
+}
+
+.openlab-footer {
+  width: 200px;
+}
+
+.text-small {
+  font-size: 0.75rem;
+}
+
+.white {
+  background-color: white;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}

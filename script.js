@@ -54,7 +54,6 @@ $(document).ready(function() {
         $(this).css({ "background-color": "red" });
         event.preventDefault();
       } else {
-        event.preventDefault();
         console.log("email sent");
       }
     });
